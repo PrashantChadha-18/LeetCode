@@ -20,7 +20,7 @@ class Solution {
             ListNode second=first.next;
 
             first.next=second.next;
-            second.next=first;
+            second.next=prev.next;
             prev.next=second;
 
             prev=first;
