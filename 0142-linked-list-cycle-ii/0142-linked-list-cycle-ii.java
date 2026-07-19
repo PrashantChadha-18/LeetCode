@@ -25,7 +25,7 @@ public class Solution {
                     slow=slow.next;
                     nn=nn.next;
                 }
-                return nn;
+                return slow;
             }
         }
         return null;
