@@ -26,7 +26,10 @@ class Solution {
         {
             curr=curr.next;
         }
-        curr.next=curr.next.next;
+        if(curr!=null && curr.next!=null)
+        {
+            curr.next=curr.next.next;
+        }
         return head;
         // if(head==null && head.next==null)
         // {
