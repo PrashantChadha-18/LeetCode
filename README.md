@@ -25,6 +25,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Dynamic Programming
 |  |
@@ -82,4 +84,5 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
