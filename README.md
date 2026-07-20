@@ -6,6 +6,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PrashantChadha-18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PrashantChadha-18/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
@@ -20,6 +21,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PrashantChadha-18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PrashantChadha-18/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -45,6 +47,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
