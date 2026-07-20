@@ -16,6 +16,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +94,5 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
