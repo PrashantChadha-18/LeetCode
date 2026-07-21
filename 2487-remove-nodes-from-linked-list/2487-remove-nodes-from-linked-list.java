@@ -12,8 +12,7 @@ class Solution {
     public ListNode removeNodes(ListNode head) {
         ListNode curr=head;
         ListNode prev=null;
-        while(curr!=null)
-        {
+        while(curr!=null){
             ListNode next=curr.next;
             curr.next=prev;
             prev=curr;
@@ -34,15 +33,15 @@ class Solution {
                 max=y.val;
             }
         }
-        ListNode c=head;
-        ListNode prev2=null;
-        while(c!=null)
+        ListNode reverse=head;
+        ListNode p=null;
+        while(reverse!=null)
         {
-            ListNode next=c.next;
-            c.next=prev2;
-            prev2=c;
-            c=next;
+            ListNode next=reverse.next;
+            reverse.next=p;
+            p=reverse;
+            reverse=next;
         }
-        return prev2;
+        return p;
     }
 }
