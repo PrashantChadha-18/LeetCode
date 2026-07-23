@@ -14,17 +14,20 @@ class Solution {
         ListNode curr=dummy;
         Stack<ListNode> s1=new Stack<>();
         Stack<ListNode> s2=new Stack<>();
-        while(l1!=null)
-        {
-            s1.push(l1);
-            l1=l1.next;
-        }
-        while(l2!=null)
-        {
-            s2.push(l2);
-            l2=l2.next;
-        }
         int carry=0;
+        while(l1!=null || l2!=null)
+        {
+            if(l1!=null)
+            {
+                s1.push(l1);
+                l1=l1.next;
+            }
+            if(l2!=null)
+            {
+                s2.push(l2);
+                l2=l2.next;
+            }
+        }
         while(!s1.isEmpty() || !s2.isEmpty() || carry!=0)
         {
             int sum=carry;
