@@ -17,7 +17,6 @@ class Solution {
         {
             ListNode first=prev.next;
             ListNode second=first.next;
-
             first.next=second.next;
             second.next=prev.next;
             prev.next=second;
