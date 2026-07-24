@@ -60,6 +60,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2652-sum-multiples](https://github.com/PrashantChadha-18/LeetCode/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
