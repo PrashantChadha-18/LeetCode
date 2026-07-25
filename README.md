@@ -36,6 +36,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0055-jump-game) |
@@ -80,6 +81,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Number Theory
@@ -131,4 +133,8 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
