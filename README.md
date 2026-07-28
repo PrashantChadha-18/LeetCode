@@ -46,6 +46,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/PrashantChadha-18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
