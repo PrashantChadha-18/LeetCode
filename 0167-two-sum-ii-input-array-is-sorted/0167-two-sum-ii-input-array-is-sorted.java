@@ -21,6 +21,6 @@ class Solution {
                 right--;
             }
         }
-        return num;
+        return arr;
     }
 }
