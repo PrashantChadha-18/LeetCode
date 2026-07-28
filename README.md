@@ -43,6 +43,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0059-spiral-matrix-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
@@ -96,6 +97,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -106,6 +108,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0141-linked-list-cycle](https://github.com/PrashantChadha-18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
