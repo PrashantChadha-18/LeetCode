@@ -56,6 +56,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
@@ -179,6 +180,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0724-find-pivot-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
