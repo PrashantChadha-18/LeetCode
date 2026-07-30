@@ -36,6 +36,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrashantChadha-18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
@@ -63,6 +64,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/PrashantChadha-18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
