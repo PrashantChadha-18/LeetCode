@@ -56,6 +56,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0643-maximum-average-subarray-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
@@ -88,6 +89,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Dynamic Programming
 |  |
@@ -149,6 +151,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
