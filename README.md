@@ -48,6 +48,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrashantChadha-18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -76,6 +77,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -129,6 +131,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
