@@ -50,6 +50,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrashantChadha-18/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0141-linked-list-cycle](https://github.com/PrashantChadha-18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
@@ -142,6 +144,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -150,6 +153,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
