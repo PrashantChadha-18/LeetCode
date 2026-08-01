@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<tokens.length;i++)
         {
             String s=tokens[i];
-            if(!st.isEmpty() && s.equals("+"))
+            if(s.equals("+"))
             {
                 int a=st.pop();
                 int b=st.pop();
