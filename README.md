@@ -94,6 +94,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0059-spiral-matrix-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -164,6 +166,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
