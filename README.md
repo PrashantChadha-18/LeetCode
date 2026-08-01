@@ -32,6 +32,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0024-swap-nodes-in-pairs](https://github.com/PrashantChadha-18/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -110,6 +111,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PrashantChadha-18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -153,6 +155,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0020-valid-parentheses](https://github.com/PrashantChadha-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
