@@ -29,6 +29,6 @@ class Solution {
                 st.push(Integer.parseInt(ch));
             }
         }
-        return st.pop();
+        return st.peek();
     }
 }
