@@ -60,6 +60,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0724-find-pivot-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -83,6 +84,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -101,6 +103,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0055-jump-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -208,6 +211,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
