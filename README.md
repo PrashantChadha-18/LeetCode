@@ -108,6 +108,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0011-container-with-most-water](https://github.com/PrashantChadha-18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantChadha-18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0020-valid-parentheses](https://github.com/PrashantChadha-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/PrashantChadha-18/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantChadha-18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -168,6 +170,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/PrashantChadha-18/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantChadha-18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
