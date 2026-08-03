@@ -67,6 +67,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0075-sort-colors](https://github.com/PrashantChadha-18/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -232,6 +234,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Design
 |  |
 | ------- |
