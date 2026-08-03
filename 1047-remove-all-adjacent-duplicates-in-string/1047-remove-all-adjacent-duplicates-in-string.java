@@ -4,13 +4,16 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             char ch=s.charAt(i);
-            if(!stk.isEmpty() && stk.peek()==ch)
+            if(stk.isEmpty() || ch!=stk.peek())
             {
-                stk.pop();
+                stk.push(ch);
             }
             else
             {
-                stk.push(ch);
+                if(!stk.isEmpty())
+                {
+                    stk.pop();
+                }
             }
         }
         StringBuilder sb=new StringBuilder();
