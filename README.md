@@ -239,4 +239,20 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrashantChadha-18/LeetCode/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
