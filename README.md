@@ -40,6 +40,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0001-two-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrashantChadha-18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/PrashantChadha-18/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0055-jump-game) |
@@ -131,6 +132,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PrashantChadha-18/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantChadha-18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
