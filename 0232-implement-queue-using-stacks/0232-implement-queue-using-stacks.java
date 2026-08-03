@@ -22,7 +22,7 @@ class MyQueue {
     }
     
     public int peek() {
-        while(out.isEmpty())
+        if(out.isEmpty())
         {
             while(!inp.isEmpty())
             {
