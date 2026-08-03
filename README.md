@@ -123,6 +123,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantChadha-18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/PrashantChadha-18/LeetCode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Number Theory
@@ -177,6 +178,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0844-backspace-string-compare](https://github.com/PrashantChadha-18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantChadha-18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/PrashantChadha-18/LeetCode/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
