@@ -69,6 +69,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [1991-find-the-middle-index-in-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +206,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0148-sort-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
