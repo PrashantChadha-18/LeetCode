@@ -169,6 +169,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantChadha-18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PrashantChadha-18/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrashantChadha-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -249,10 +250,12 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -261,6 +264,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0100-same-tree) |
 ## Queue
 |  |
