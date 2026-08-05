@@ -80,6 +80,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/PrashantChadha-18/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/PrashantChadha-18/LeetCode/tree/master/2652-sum-multiples) |
+| [3945-digit-frequency-score](https://github.com/PrashantChadha-18/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
