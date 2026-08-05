@@ -92,6 +92,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/PrashantChadha-18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/PrashantChadha-18/LeetCode/tree/master/2652-sum-multiples) |
 | [3945-digit-frequency-score](https://github.com/PrashantChadha-18/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -102,6 +103,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0059-spiral-matrix-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/PrashantChadha-18/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2169-count-operations-to-obtain-zero](https://github.com/PrashantChadha-18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
