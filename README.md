@@ -95,6 +95,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [2169-count-operations-to-obtain-zero](https://github.com/PrashantChadha-18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/PrashantChadha-18/LeetCode/tree/master/2652-sum-multiples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3945-digit-frequency-score](https://github.com/PrashantChadha-18/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
@@ -283,4 +284,8 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrashantChadha-18/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrashantChadha-18/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
