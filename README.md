@@ -267,6 +267,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrashantChadha-18/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Queue
 |  |
 | ------- |
@@ -304,4 +307,12 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PrashantChadha-18/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
