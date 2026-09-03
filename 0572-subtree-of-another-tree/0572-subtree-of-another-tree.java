@@ -25,21 +25,20 @@ class Solution {
         }
         return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
     }
-    public boolean isSame(TreeNode a,TreeNode b)
+    public boolean isSame(TreeNode p,TreeNode q)
     {
-        if(a==null && b==null)
+        if(p==null && q==null)
         {
             return true;
         }
-        if(a==null || b==null)
+        if(p==null || q==null)
         {
             return false;
         }
-        if(a.val!=b.val)
+        if(p.val!=q.val)
         {
             return false;
         }
-        return isSame(a.left,b.left) && isSame(a.right,b.right);
+        return isSame(p.left,q.left) && isSame(p.right,q.right);
     }
-
 }
