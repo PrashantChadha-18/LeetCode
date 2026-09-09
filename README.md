@@ -88,6 +88,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/PrashantChadha-18/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
