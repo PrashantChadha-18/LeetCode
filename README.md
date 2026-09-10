@@ -77,6 +77,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrashantChadha-18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/PrashantChadha-18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrashantChadha-18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PrashantChadha-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
@@ -244,6 +246,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrashantChadha-18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
