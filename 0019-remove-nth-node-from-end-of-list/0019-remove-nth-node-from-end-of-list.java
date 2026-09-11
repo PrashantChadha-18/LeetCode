@@ -35,7 +35,7 @@ class Solution {
         dummy.next=head;
         ListNode slow=dummy;
         ListNode fast=dummy;
-        for(int i=1;i<=n+1;i++)
+        for(int i=1;i<n+1;i++)
         {
             fast=fast.next;
         }
