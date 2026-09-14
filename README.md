@@ -58,6 +58,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0485-max-consecutive-ones](https://github.com/PrashantChadha-18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/PrashantChadha-18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/PrashantChadha-18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/PrashantChadha-18/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -253,6 +255,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PrashantChadha-18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
