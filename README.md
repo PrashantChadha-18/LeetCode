@@ -59,6 +59,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0485-max-consecutive-ones](https://github.com/PrashantChadha-18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantChadha-18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrashantChadha-18/LeetCode/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/PrashantChadha-18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantChadha-18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
@@ -98,6 +100,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -257,6 +260,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PrashantChadha-18/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantChadha-18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -364,4 +368,8 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
