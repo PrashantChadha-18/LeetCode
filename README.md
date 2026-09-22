@@ -67,6 +67,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0735-asteroid-collision](https://github.com/PrashantChadha-18/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/PrashantChadha-18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/PrashantChadha-18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrashantChadha-18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrashantChadha-18/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -179,6 +180,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0283-move-zeroes](https://github.com/PrashantChadha-18/LeetCode/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/PrashantChadha-18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/PrashantChadha-18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
@@ -231,6 +233,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0148-sort-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrashantChadha-18/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/PrashantChadha-18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
 ## Merge Sort
