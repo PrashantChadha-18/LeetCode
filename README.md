@@ -77,6 +77,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrashantChadha-18/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [2169-count-operations-to-obtain-zero](https://github.com/PrashantChadha-18/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/PrashantChadha-18/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrashantChadha-18/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3701-compute-alternating-sum](https://github.com/PrashantChadha-18/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
