@@ -31,6 +31,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PrashantChadha-18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/PrashantChadha-18/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/PrashantChadha-18/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PrashantChadha-18/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PrashantChadha-18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
@@ -99,6 +100,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0002-add-two-numbers](https://github.com/PrashantChadha-18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PrashantChadha-18/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/PrashantChadha-18/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PrashantChadha-18/LeetCode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0445-add-two-numbers-ii) |
