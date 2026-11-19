@@ -5,7 +5,7 @@ class Solution {
         solve(0,nums,temp,ans);
         return ans;
     }
-    public void solve(int index,int[] nums,List<Integer> temp,List<List<Integer>> ans)
+    public void solve(int index,int[] nums,List<Integer> temp, List<List<Integer>> ans)
     {
         if(index==nums.length)
         {
