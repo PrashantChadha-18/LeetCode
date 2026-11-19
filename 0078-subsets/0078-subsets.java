@@ -12,9 +12,9 @@ class Solution {
             ans.add(new ArrayList<>(temp));
             return;
         }
-        solve(index+1,nums,temp,ans);
         temp.add(nums[index]);
         solve(index+1,nums,temp,ans);
         temp.remove(temp.size()-1);
+        solve(index+1,nums,temp,ans);
     }
 }
