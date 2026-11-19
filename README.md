@@ -48,6 +48,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0055-jump-game](https://github.com/PrashantChadha-18/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/PrashantChadha-18/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/PrashantChadha-18/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrashantChadha-18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -407,4 +408,12 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrashantChadha-18/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrashantChadha-18/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
