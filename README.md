@@ -149,6 +149,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PrashantChadha-18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/PrashantChadha-18/LeetCode/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/PrashantChadha-18/LeetCode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/PrashantChadha-18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantChadha-18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
