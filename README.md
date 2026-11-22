@@ -43,6 +43,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 | [0011-container-with-most-water](https://github.com/PrashantChadha-18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/PrashantChadha-18/LeetCode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PrashantChadha-18/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/PrashantChadha-18/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrashantChadha-18/LeetCode/tree/master/0054-spiral-matrix) |
@@ -413,6 +414,7 @@ My accepted LeetCode solutions in Java with automatic GitHub sync using LeetHub.
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/PrashantChadha-18/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PrashantChadha-18/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/PrashantChadha-18/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
