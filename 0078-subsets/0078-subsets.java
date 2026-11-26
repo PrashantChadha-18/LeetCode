@@ -5,16 +5,15 @@ class Solution {
         solve(0,nums,temp,ans);
         return ans;
     }
-    public void solve(int index,int[] nums,List<Integer> temp, List<List<Integer>> ans)
+    public void solve(int index,int[] nums,List<Integer> temp,List<List<Integer>> ans)
     {
-        if(index==nums.length)
+        ans.add(new ArrayList<>(temp));
+        for(int i=index;i<nums.length;i++)
         {
-            ans.add(new ArrayList<>(temp));
-            return;
+            temp.add(nums[i]);
+            solve(i+1,nums,temp,ans);
+            temp.remove(temp.size()-1);
         }
-        temp.add(nums[index]);
-        solve(index+1,nums,temp,ans);
-        temp.remove(temp.size()-1);
-        solve(index+1,nums,temp,ans);
+
     }
 }
