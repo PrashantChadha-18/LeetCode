@@ -40,9 +40,7 @@ class Solution {
                             {
                                 return true;
                             }
-                            else{
-                                board[i][j]='.';
-                            }
+                            board[i][j]='.';
                         }
                     }
                     return false;
